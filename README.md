@@ -1,4 +1,4 @@
-## 👶 **Mini** Token Monster
+## 👶 Mini Token Monster
 A Discord token grabber in the form of a Chrome bookmark. It is disguised as a trojan that adds an extra layer of "security" to your Discord account.
 
 #### :trophy: Features
